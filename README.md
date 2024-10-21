@@ -5,7 +5,7 @@ This is a RESTful API for managing users and their tasks, including user registr
 
 1. Clone the repository:
 
-git clone <repository-url> 
+git clone https://github.com/ayush7078/User-and-Task-Management-backend.git 
 cd user-task-manager
 
 
